@@ -31,6 +31,12 @@ A animação foi desenvolvida utilizando CSS, por meio das propriedades "transit
 
 O site funciona diretamente pelo navegador. O HTML organiza os conteúdos, o CSS personaliza o visual e o Bootstrap auxilia na construção de um layout responsivo.
 
+🌐Acesse o projeto
+
+Confira a versão publicada do meu portifólio através do link abaixo:
+
+🔗Site:  https://augustocamelo239-hub.github.io/portflio/
+
 O menu permite navegar entre as seções, enquanto o carousel possibilita visualizar os projetos apresentados.
 
 ---
